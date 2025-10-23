@@ -1,4 +1,4 @@
-String Analyzer API — HNG Backend Stage 1
+##String Analyzer API — HNG Backend Stage 1
 
 A RESTful API service that analyzes strings and stores their computed properties.
 
